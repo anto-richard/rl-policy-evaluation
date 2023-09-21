@@ -48,13 +48,13 @@ The transition probabilities for each action are as follows:
 
 ### Graphical Representation:
 
-![img](ClassDiagram1.png)
+![out1](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/74eea05b-fd7a-4e0b-a9de-a3a124d7607a)
 
 ## POLICY EVALUATION FUNCTION :
 
 ### Formula :
 
-![Alt text](image.png)
+![out2](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/0fb0fe63-3a14-416e-b7fc-fdf3bcb495ba)
 
 ### PROGRAM :
 
