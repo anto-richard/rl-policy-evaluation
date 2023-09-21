@@ -304,19 +304,41 @@ else:
 
 ```
 
-## OUTPUT:
+## OUTPUT :
 
-#### Policy 1
-![Alt text](image-1.png)
-![Alt text](image-3.png)
-#### Policy 2
-![Alt text](image-2.png)
-![Alt text](image-4.png)
-#### Comparison & Conclusion
-![Alt text](image-5.png)
-![Alt text](image-6.png)
+#### Policy-1 : 
 
-## RESULT:
+![rl02-1](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/21e5577c-7484-4877-9fab-de8f5c558c8c)
 
-Thus the Given Policy have been ***Evaluated*** and ***Optimal Policy*** has been Computed using Python Programming.
+#### Policy-1 State-value function :
+
+![rl02-2](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/21b6c0e1-df38-49f7-b7ca-532c46134365)
+
+#### Policy-1 evaluation : 
+
+![rl02-3](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/69411a03-182b-4a06-a7c4-560f4b49e2ea)
+
+#### Policy-2 :
+
+![rl02-4](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/e618b051-422e-4569-8096-d149f6b7a9b0)
+
+#### Policy-2 State-value function :
+
+![rl02-5](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/12fc42db-8f6f-44e1-9900-5640bc1b759e)
+
+#### Policy-2 evaluation :
+
+![rl02-6](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/c26a46e3-9d89-469c-a3f1-0d31f32919cd)
+
+#### Comparison between 1st and 2nd policy : 
+
+![rl02-7](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/fa9e0edf-65d6-4b7b-9efa-1fe0ccc64de3)
+
+#### Conclusion on 1st and 2nd policy : 
+
+![rl02-8](https://github.com/anto-richard/rl-policy-evaluation/assets/93427534/f517b4bf-e39b-4265-bc26-876fcbf1cabf)
+
+## RESULT :
+
+Thus, the Given Policy has been Evaluated and Optimal Policy has been Computed using Python Programming and execcuted successfully.
 
